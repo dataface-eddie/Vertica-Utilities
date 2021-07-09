@@ -1,3 +1,3 @@
 # Vertica-Utilities
 
-This is where I store my handy Vertica queries.
+This is my personal repo of useful utility queries, scripts, etc...
